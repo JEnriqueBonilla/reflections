@@ -2,3 +2,13 @@
 you create the carpet .git and is used to track the history of files
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 it allows you to control the commits and have logical operations
+3) How can you use the staging area to make sure you have one commit per logical change?
+just by adding the files that correspond to your logical change and no every file
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to try some experimental changes in something that already works
+5) How do the diagrams help you visualize the branch structure?
+it is a graph that helps you vizualize the parenting
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the idea of merging is to have one final file, and the diagram is used to know the parenting (graph) structure
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+that you can think better than the computer to do that
