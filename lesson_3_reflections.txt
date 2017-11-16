@@ -6,3 +6,5 @@ So that it does not get to messy
 fork is clone in github, clone is copying a repository from other computer, branches is a path of modifications from your code. 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 that you can track the changes in your local and in the remote
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+using another plataform like git
